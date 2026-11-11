@@ -1,9 +1,13 @@
 # CoDesignAI — Summer 2026 internship
 
+> **CoDesignAI** is a startup affiliated with **Polytechnique Montréal**.
+> Backend & security engineering intern, June to August 2026, Montréal.
+
 This repository is a write-up of my three-month internship (June to August
-2026) at Polytechnique Montréal on **CoDesignAI**, a subscription-based analog
-circuit optimization tool that uses reinforcement learning and is installed
-on the customer's own machines.
+2026) at **CoDesignAI**, a Polytechnique Montréal-affiliated startup. Its
+product, also called CoDesignAI, is a subscription-based analog circuit
+optimization tool that uses reinforcement learning and is installed on the
+customer's own machines.
 
 The product's source code is not here. It belongs to CoDesignAI and stays
 private. What this repository covers is the problem, what I built, the
